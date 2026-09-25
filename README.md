@@ -62,5 +62,29 @@ The repository must contain:
 - A `README.md` file (this document) that clearly explains the workshop project.  
 - An updated `RobotPM_MLOps.ipynb` notebook documenting architectural changes, recommended additions, and placeholders for future enhancements.  
 
+## Quickstart Guide
 
+Clone and set up the environment:
+
+```bash
+git clone <your-repository-url>
+cd Linear_Regression_Architecture_Workshop
+python -m venv venv
+source venv/bin/activate        # On Windows use: venv\Scripts\activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the individual modules for testing:
+
+```bash
+python src/data_loader.py
+python src/preprocessing.py
+python src/model.py
+python src/evaluation.py
+```
 

@@ -1,2 +1,13 @@
+.virtualenv/
 .venv/
+.venv
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+node_modules/
+.neon
+*.odt
 simulations/README.md
+__pycache__/
