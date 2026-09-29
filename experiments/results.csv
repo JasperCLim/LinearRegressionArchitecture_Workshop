@@ -1,0 +1,9 @@
+run_utc,dataset,feature,target,model,test_size,random_state,learning_rate,epochs,rmse,mae,r2
+2026-09-28T20:45:36.404677+00:00,data/RMBR4-2_export_test.csv,Axis #1,Axis #2,custom_gradient_descent,0.2,42,0.05,1000,6.538192003958422,4.488166894018932,0.09761191240385603
+2026-09-28T20:45:36.404677+00:00,data/RMBR4-2_export_test.csv,Axis #1,Axis #2,sklearn_linear_regression,0.2,42,,,6.538192003958425,4.488166894018945,0.09761191240385514
+2026-09-29T01:49:34.693170+00:00,data/RMBR4-2_export_test.csv;data/RMBR4-3_export_spiky.csv;data/RMBR4-4_export_spiky.csv,Axis #1,Axis #2,custom_gradient_descent,0.2,42,0.05,1000,6.5308564381337835,4.522681534170181,0.08912201943024645
+2026-09-29T01:49:34.693170+00:00,data/RMBR4-2_export_test.csv;data/RMBR4-3_export_spiky.csv;data/RMBR4-4_export_spiky.csv,Axis #1,Axis #2,sklearn_linear_regression,0.2,42,,,6.5308564381337755,4.522681534170217,0.08912201943024867
+2026-09-29T02:13:09.090659+00:00,data/RMBR4-2_export_test.csv;data/RMBR4-3_export_spiky.csv;data/RMBR4-4_export_spiky.csv,Axis #1,Axis #2,custom_gradient_descent,6.5308564381337835,4.522681534170181,0.08912201943024645
+2026-09-29T02:13:09.090659+00:00,data/RMBR4-2_export_test.csv;data/RMBR4-3_export_spiky.csv;data/RMBR4-4_export_spiky.csv,Axis #1,Axis #2,sklearn_linear_regression,6.5308564381337755,4.522681534170217,0.08912201943024867
+2026-09-29T02:36:22.907372+00:00,data/RMBR4-2_export_test.csv;data/RMBR4-3_export_spiky.csv;data/RMBR4-4_export_spiky.csv,Axis #1,Axis #2,custom_gradient_descent,0.2,42,0.05,1000,6.5308564381337835,4.522681534170181,0.08912201943024645
+2026-09-29T02:36:22.907372+00:00,data/RMBR4-2_export_test.csv;data/RMBR4-3_export_spiky.csv;data/RMBR4-4_export_spiky.csv,Axis #1,Axis #2,sklearn_linear_regression,0.2,42,,,6.5308564381337755,4.522681534170217,0.08912201943024867

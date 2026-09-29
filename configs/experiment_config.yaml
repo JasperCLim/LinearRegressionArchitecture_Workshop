@@ -1,0 +1,20 @@
+data:
+  paths:
+    - data/RMBR4-2_export_test.csv
+    - data/RMBR4-3_export_spiky.csv
+    - data/RMBR4-4_export_spiky.csv
+  feature: "Axis #1"
+  target: "Axis #2"
+
+experiment:
+  test_size: 0.2
+  random_state: 42
+
+models:
+  custom_gradient_descent:
+    learning_rate: 0.05
+    epochs: 1000
+  sklearn_linear_regression: {}
+
+tracking:
+  results_path: experiments/results.csv

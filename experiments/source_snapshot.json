@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-09-29T02:13:07.392160+00:00",
+  "source": {
+    "source_type": "csv",
+    "files": [
+      "c:\\Users\\User\\Documents\\conestoga\\CSCN8010\\LinearRegressionArchitecture_Workshop\\data\\RMBR4-2_export_test.csv",
+      "c:\\Users\\User\\Documents\\conestoga\\CSCN8010\\LinearRegressionArchitecture_Workshop\\data\\RMBR4-3_export_spiky.csv",
+      "c:\\Users\\User\\Documents\\conestoga\\CSCN8010\\LinearRegressionArchitecture_Workshop\\data\\RMBR4-4_export_spiky.csv"
+    ]
+  },
+  "rows": 119016,
+  "robots": [
+    "robot_1",
+    "robot_2",
+    "robot_3"
+  ]
+}
